@@ -10,7 +10,7 @@ One other tool I had in mind when I was researching tools was Google’s [Calend
 
 ### EDP:
 
-Currently, I’d say that I’m actually at the both the Research The Problem  and Create A Prototype stage, because I actually have a lot of the project planned out. I know what I want my application to look like, I know the basic features I want it to have, but I don’t know exactly how to do it yet, which is where Research The Problem comes in. Once I learn how to do everything I need for my project (which would involve completely learning Firebase and learning even more Javascript) then I will be able to actually create a working prototype!
+Currently, I’d say that I’m actually at the both the Research The Problem and Create A Prototype stage, because I actually have a lot of the project planned out. I know what I want my application to look like, I know the basic features I want it to have, but I don’t know exactly how to do it yet, which is where Research The Problem comes in. Once I learn how to do everything I need for my project (which would involve completely learning Firebase and learning even more Javascript) then I will be able to actually create a working prototype!
 
 ### Skills:
 
