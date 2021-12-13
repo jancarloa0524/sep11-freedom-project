@@ -1,5 +1,5 @@
 # Entry 1: __Schedueles, Firebase, and Taekwondo__
-##### 1/8/21
+##### 11/8/21
 
 ### Context:
 
