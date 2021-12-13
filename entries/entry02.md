@@ -1,4 +1,4 @@
-# Entry 2: __ __
+# Entry 2: __Read/Write/Read/Write/Read/Write__
 ##### 12/13/21
 
 ### Context:
@@ -13,7 +13,7 @@ import _ from 'lodash';
 function component() {
   const element = document.createElement('div');
 
-  // UPDATE: LODASH NOW IMPORTED BY THIS SCRIPT; OLD: Lodash, currently included via a script, is required for this line to work 
+  // UPDATE: LODASH NOW IMPORTED BY THIS SCRIPT; OLD: Lodash, currently included via a script, is required for this line to work
   element.innerHTML = _.join(['Hello', 'webpack'], ' ');
 
   return element;
@@ -22,7 +22,7 @@ function component() {
 document.body.appendChild(component());
 ```
 
-This is a part of `index.js`, which essentially imports other scripts within the `src` folder. Basically, this imports something called `lodash` into our project which is required for webpack to work. Lodash alone is another thing I can look into which I haven't already, but from it's description, it makes it easier to work with arrays of data. 
+This is a part of `index.js`, which essentially imports other scripts within the `src` folder. Basically, this imports something called `lodash` into our project which is required for webpack to work. Lodash alone is another thing I can look into which I haven't already, but from it's description, it makes it easier to work with arrays of data.
 
 You can also see lodash in `package.json`
 
@@ -50,23 +50,23 @@ You can also see lodash in `package.json`
 }
 ```
 
-`package.json` is important to the bundling process, as it lists dependencies when you install them from your terminal. You'll also notice in scripts, that I added a "build" script that essentially makes it easier to run webpack. 
+`package.json` is important to the bundling process, as it lists dependencies when you install them from your terminal. You'll also notice in scripts, that I added a "build" script that essentially makes it easier to run webpack.
 
-This is just some of what I've learned, but the process to learning all of this, required a lot of reading and testing. In general, like I said before it took some time to learn just these basic steps, especially with my limited time constraints. 
+This is just some of what I've learned, but the process to learning all of this, required a lot of reading and testing. In general, like I said before it took some time to learn just these basic steps, especially with my limited time constraints.
 
 ### EDP:
 
-I'd say I'm still where I was before, because I'm still __Researching the Problem__, I'm still learning about Firebase and it's services, but I'm also at the __Create a Prototype__ stage. Due to what I've learned so far, I'm able to prototype some of the basic connections to Firebase for the project. Clearly, the next steps would be to continue creating my prototype as I learn Firebase and Javascript, and eventually reach the __Test and Evaluate__ phase in order to understand the issues my program might have, what else I might have to learn, etc. 
+I'd say I'm still where I was before, because I'm still __Researching the Problem__, I'm still learning about Firebase and it's services, but I'm also at the __Create a Prototype__ stage. Due to what I've learned so far, I'm able to prototype some of the basic connections to Firebase for the project. Clearly, the next steps would be to continue creating my prototype as I learn Firebase and Javascript, and eventually reach the __Test and Evaluate__ phase in order to understand the issues my program might have, what else I might have to learn, etc.
 
 ### Skills:
 
-I learned a lot about __How to read__, because the documentation for Firebase is __DENSE__. I had to really closely read everything in the documents, and folow the instructions carefully. The more links I found, the more research I found I had to do. This was very important for me to imrpove because for the rest of this project, I feel I will be looking at lots and lots of documentation, so I need to learn how to do this process faster and more efficiently. 
+I learned a lot about __How to read__, because the documentation for Firebase is __DENSE__. I had to really closely read everything in the documents, and folow the instructions carefully. The more links I found, the more research I found I had to do. This was very important for me to imrpove because for the rest of this project, I feel I will be looking at lots and lots of documentation, so I need to learn how to do this process faster and more efficiently.
 
-I also learned a lot about __Problem Decomposition__, because of the fact that as the documentation breaks itself down, it is essentially teaching me more and more ways to produce the bigger result that I want. The process for installing and utilizing Firebase and module bundlers is a complex one but one that, when you break it down, becomes much easier to do. This is something I'm definetly going to need to do when making my project. 
+I also learned a lot about __Problem Decomposition__, because of the fact that as the documentation breaks itself down, it is essentially teaching me more and more ways to produce the bigger result that I want. The process for installing and utilizing Firebase and module bundlers is a complex one but one that, when you break it down, becomes much easier to do. This is something I'm definetly going to need to do when making my project.
 
-### Conclusion: 
+### Conclusion:
 
-I want to be in a much better place for my project, because I don't feel like I have made as much progress as I would have liked to. So, over the break, I'm going to really dedicate some time to learning more about Firebase, especially to really understand just how much I might have to learn, and how fast I can do it before I need a prototype ready and working. So, my plan right now is simple, to learn more about Firebase in the coming weeks and try to delve deep into it. 
+I want to be in a much better place for my project, because I don't feel like I have made as much progress as I would have liked to. So, over the break, I'm going to really dedicate some time to learning more about Firebase, especially to really understand just how much I might have to learn, and how fast I can do it before I need a prototype ready and working. So, my plan right now is simple, to learn more about Firebase in the coming weeks and try to delve deep into it.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
