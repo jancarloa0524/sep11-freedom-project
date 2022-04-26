@@ -95,7 +95,7 @@ When reading this code along with the comments, it becomes really easy to unders
 
 ### So what exactly did I end up making?
 
-![Prototype](imgs/prototype-img.png)
+![Prototype](https://github.com/jancarloa0524/sep11-freedom-project/blob/main/imgs/prototype-img.png?raw=true)
 ### EDP
 
 ### Skills
