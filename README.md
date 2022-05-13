@@ -1,5 +1,7 @@
 # SEP11 Freedom Project
-by X
+by Jan Carlo Avendano
+
+## [Link](https://github.com/jancarloa0524/uxma-student-status) to Actual Code for Project:
 
 ## Context
 The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
