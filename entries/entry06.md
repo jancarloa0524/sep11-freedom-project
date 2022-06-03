@@ -3,11 +3,7 @@
 
 ### Context
 
-This will likely be my last blog entry, because we are wrapping up our freedom projects. I will reflect more on the freedom project in the conclusion, but for now, we'll talk about another feature I added to my project, which is now online and can be checked out [here](https://uxma-student-status-e2291.web.app/). For the purposes of viewing my project and interacting with it, use the following credentials:
-
-Email: user@exampleEmail.com
-
-Password: totallySecure123
+This will likely be my last blog entry, because we are wrapping up our freedom projects. I will reflect more on the freedom project in the conclusion, but for now, we'll talk about another feature I added to my project, which is now online and can be checked out [here](https://uxma-student-status-e2291.web.app/). Becuase this project is a more personal one, I will not be providing credentials. However, my showcase presentation will show how the project in action. 
 
 Now right away, a new feature you may notice compared to my last blog entry is that there is now a log-in. I decided to create a modal since I felt that would be the easiest way for me to authenticate users, especially because it's only one page. 
 
