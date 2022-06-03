@@ -19,6 +19,8 @@ Of course, when the user tries to login and fails to do so, an "Incorrect passwo
 
 Making sure the website goes online was actually really easy, I only had to install the Firebase CLI into my terminal in Visual Studio Code, and then connect Firebase hosting to my project, which was a pretty simple process of just selecting my `index.html` file as the main file to be hosted. 
 
+In addition to all of this, I will be talking about my [Expo Elevator Pitch](#expo-elevator-pitch-takeaways), [In-Class Presentation](#in-class-presentation-takeaways), and [Overall Takeaways](#overall-takeaways).
+
 ### Challenges
 
 Implementing a login was actually quite the task, starting with figuring out how to make a modal to begin with. I followed this [simple tutorial](https://www.youtube.com/watch?v=XH5OW46yO8I), and from there added a login form into the actual modal. 
@@ -99,7 +101,21 @@ Right now, stage 8 of the Engineering Design Process, since I have already commu
 I feel like I definetly focus on **"How to learn"** pretty well, since I learned how to implement Firebase Auth, with a mix of security rules from Firestore, including a bit of CSS and even Firebase hosting. Because I understand Firebase way better now, learning it is becoming easier and easier, especially the more I understand the way it all works. The tutorials I used are becoming easier and easier to follow as well.
 
 I also feel I focused quite a bit on **"Problem Decomposition"**, becuase I broke everything down into pieces, doing every part of the log-in piece by piece. First figuring out how the CSS would work, then implementing actual authentication and persistence, then securing data. 
-### Conclusion
+## Conclusions
+
+### Expo Elevator Pitch Takeaways
+The SEP11 Expo was essentially like a sort of science fair, where students in our school checked out projects from all the SEP classes. We had to present them fairly quickly, especially to judges. 
+
+*The "Elevator Pitch" I used as a reference when talking to students and judges about my project can be found at the bottom of my notes for this year [here](https://docs.google.com/document/d/1AERpjNvYGv-7j0zZt-k7CRXWcGlXSNnC0KNSQBOWf4k/edit?usp=sharing).*
+
+Presenting my project was a bit nerveracking at first because I just could not remember my script that well, but when the first group of students walked over to my table, I just couldn't contain my excitement for my project because I genuinely love what I've created, and I feel that when you are truly invested in something you accomplished, you'll already know exactly what to say about it. The judges really seemed to love my project, and I feel the energy and excitement for my project really played a part in that. Overall, what I can take away from this experience is that, presentations need to be captivating and energetic, something that people can hang on to every word for. And the perfect way to get there, is to love what you do. 
+### In-Class Presentation Takeaways
+My presentation was a little bit much I have to admit, it took me way longer than 10 minutes to present in it's entirety, but I honestly felt like there was just so much to explain. 
+
+*My presentation can be found [here](https://docs.google.com/presentation/d/1RGx41RWF23EAVL7cKrE1FMT5hiI3WmC2Rz9e64mWKHg/edit?usp=sharing)*
+
+Creating my slides, I felt like I could explain everything really quickly, and while presenting, my explanations were thorough, showing that I really understood everything I said and did. But, what I can take away from this presentation is that I need to also make sure I focus on what is necessary. Talking about the challenges I encountered could have probably been far shorter, since I went in depth into explaining some code I probably didn't need to explain. I felt my presentation was overall great, I just need to make sure I'm straight to the point while being understandable.
+### Overall Takeaways
 This project has honestly been quite a journey, since I started off knowing barely anything about JS, and deciding to just do the tool said to be the most difficult, and even trying an idea that might have been way too difficult for me. But through this process, I have learned so so much, more than any other project I've done. This project was a difficult one that required a lot of time and effort, which I put so much into in the moments that I could. It's bare-bones as of this entry, but it works, and I'm proud of what I was able to make. 
 
 [Previous](entry05.md)
