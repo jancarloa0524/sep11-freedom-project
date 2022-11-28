@@ -11,11 +11,12 @@ For my project, I am making a student report creation tool. This blog will walk 
 
 ## Links
 
-[Product](https://uxma-student-status-e2291.web.app/) (*Because this project is a more personal one, I will not be providing any credentials. The Showcase Presentation will show off it's functionality.*)
+[Product](https://uxma-student-status-e2291.web.app/) (*Because this project is a more personal one, I will not be providing any credentials. If you want to see how the app works, check the video in the showcase presentation*)
 
-[Presentation]() (Class-Presentation)
+[Class-Presentation, HSTAT exlusive access](https://docs.google.com/presentation/d/1RGx41RWF23EAVL7cKrE1FMT5hiI3WmC2Rz9e64mWKHg/edit?usp=sharing)
 
-(Showcase Presenation coming soon!)
+[Showcase Presentation](https://docs.google.com/presentation/d/1i9dyOSrzTyAVyPWWLS0f-ekEyHme42IT0ZQ2Ng2u7qE/edit?usp=sharing)
+
 
 ## Implications
 I feel that for the most part, this project will have mostly postitive impacts in our world. It is a student reporter that is meant to help teachers better help their students after all. Although particularly personnalized towards my needs, this project could easily become something any teacher can use if they'd like. 
